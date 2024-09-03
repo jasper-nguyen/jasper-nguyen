@@ -8,6 +8,8 @@
   -  [S-Mail](https://github.com/jasper-nguyen/S-Mail)
 - <b>Project Ticketing Tool (Java, JavaFX)</b>
   -  [Ticketer](https://github.com/jasper-nguyen/ProjectTicketingTool)
+- <b>An Event Based Social Media Application (Dart, Flutter)</b>
+  -  [Venue](https://github.com/jasper-nguyen/Venue)  
 
 
 <h2> 🤳 Connect with me:</h2>
