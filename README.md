@@ -1,8 +1,7 @@
 <h1>Hi, I'm Jasper! <br/></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
-- <b>Full Stack Web App (React, Python)</b>
-  - [TradeSense]([https://github.com/jasper-nguyen/gustoai](https://github.com/jasper-nguyen/TradeSense))
+
 - <b>Full Stack Web App (React, Python)</b>
   - [gustoai](https://github.com/jasper-nguyen/gustoai)
 - <b>G-Mail Clone (Python, Flask)</b>
