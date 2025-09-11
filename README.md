@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>AI Cryptocurrency Predictor (React, Python)</b>
-  - [TradeSense]((https://github.com/jasper-nguyen/TradeSense))
+  - [TradeSense](https://github.com/jasper-nguyen/TradeSense)
 - <b>Recipe Generator (React, Python)</b>
   - [gustoai](https://github.com/jasper-nguyen/gustoai)
 - <b>G-Mail Clone (Python, Flask)</b>
