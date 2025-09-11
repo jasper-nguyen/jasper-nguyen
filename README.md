@@ -2,9 +2,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Full Stack Web App (React, Python)</b>
-  - [TradeSense]([https://github.com/jasper-nguyen/gustoai](https://github.com/jasper-nguyen/TradeSense))
-- <b>Full Stack Web App (React, Python)</b>
+- <b>AI Cryptocurrency Predictor (React, Python)</b>
+  - [TradeSense]((https://github.com/jasper-nguyen/TradeSense))
+- <b>Recipe Generator (React, Python)</b>
   - [gustoai](https://github.com/jasper-nguyen/gustoai)
 - <b>G-Mail Clone (Python, Flask)</b>
   -  [S-Mail](https://github.com/jasper-nguyen/S-Mail)
